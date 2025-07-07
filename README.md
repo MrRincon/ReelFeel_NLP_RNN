@@ -18,3 +18,7 @@ Lakshmipathi N. (2019) ‘IMDB Dataset of 50K Movie Reviews’. Available at: ht
 The project solves the problem of classifying IMDB movie reviews as either positive or negative. It replaces the need for manual sentiment analysis by using supervised learning and natural language processing to automatically predict the sentiment of each review.
 
 ---
+## Motivation
+The motivation behind this project is to address the challenge of analysing large volumes of movie reviews, where manual sentiment analysis is inefficient and inconsistent. Automating this process using NLP and supervised learning enables faster and more reliable understanding of public opinion.
+
+---

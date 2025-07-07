@@ -22,3 +22,16 @@ The project solves the problem of classifying IMDB movie reviews as either posit
 The motivation behind this project is to address the challenge of analysing large volumes of movie reviews, where manual sentiment analysis is inefficient and inconsistent. Automating this process using NLP and supervised learning enables faster and more reliable understanding of public opinion.
 
 ---
+## Requirements
+  ### Jupyter Setup
+    - Install Anaconda (Python 3.11+ recommended).
+    - Launch JupyterLab via Anaconda Navigator.
+    - Use a Python 3 kernel in JupyterLab.
+  ### Colab Setup
+    - Add the project in a folder, include also the dataset into it.
+    - Mount the drive on the notebook at the beginning.
+  ### Project Setup Instructions
+    - Clone the repository and create a folder called 'datasets' in the root directory.
+    - Download the dataset from Kaggle and place the .csv file in the dataset folder.
+
+  

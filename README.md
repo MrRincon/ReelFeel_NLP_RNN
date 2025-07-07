@@ -12,3 +12,9 @@ This project builds a supervised deep learning model to classify IMDB movie revi
 ---
 ## Dataset Reference
 Lakshmipathi N. (2019) ‘IMDB Dataset of 50K Movie Reviews’. Available at: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews (Accessed: 14 April 2025).
+
+---
+## Problem Solved 
+The project solves the problem of classifying IMDB movie reviews as either positive or negative. It replaces the need for manual sentiment analysis by using supervised learning and natural language processing to automatically predict the sentiment of each review.
+
+---

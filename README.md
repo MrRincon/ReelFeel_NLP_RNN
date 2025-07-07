@@ -34,4 +34,19 @@ The motivation behind this project is to address the challenge of analysing larg
     - Clone the repository and create a folder called 'datasets' in the root directory.
     - Download the dataset from Kaggle and place the .csv file in the dataset folder.
 
-  
+## Table of Contents
+1. Project Overview
+2. Datset Reference
+3. Problem Solved
+4. Motivation
+5. Requirements
+  - Jupyter Setup
+  - Colab Setup
+  - Project Setup Instructions
+6. Notebook Structure
+  - Preinstalling Libraries
+  - Preprocessing Data
+  - Deep Learning Model Implementation
+    - Developing Recurrent Neural Network (RNN) Model
+    - Executing and training the model
+  - Evaluation and Insights

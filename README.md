@@ -47,6 +47,6 @@ The motivation behind this project is to address the challenge of analysing larg
   - Preinstalling Libraries
   - Preprocessing Data
   - Deep Learning Model Implementation
-    - Developing Recurrent Neural Network (RNN) Model
-    - Executing and training the model
+    - Recurrent Neural Network (RNN) Model
+    - Model Training
   - Evaluation and Insights
